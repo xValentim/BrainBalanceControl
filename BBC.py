@@ -1,4 +1,5 @@
 from calendar import TUESDAY
+from logging.config import valid_ident
 import requests
 import time
 from data_client import *
@@ -110,7 +111,16 @@ class PFM:
         self.totalBill = sum(self.myBill)
         self.totalInvestment = self.investment.getInvestmentValue()
         self.total = self.totalBalance + self.totalInvestment
-        self.allMyAccounts = [Account(account[2], account[3], self.customerId, account[1], self.listCreditCardAccountId[index], self.myBill[index]) for index, account in enumerate(self.allAccounts)]
+        self.allMyAccounts = [Account(account[2], -account[3], self.customerId, account[1], self.listCreditCardAccountId[index], self.myBill[index]) for index, account in enumerate(self.allAccounts)]
+
+    def getAllDebt(self) -> list:
+        valueAccount = sum([account.getBalance() for account in self.allMyAccounts])
+        valueBill = self.totalBill
+        valueInvestment = self.totalInvestment
+        total = valueAccount + valueBill + valueInvestment
+        if total < 0:
+            return total
+        return 0
 
     def showAllMySituation(self) -> None:
         log = ''
@@ -133,7 +143,7 @@ class PFM:
         return sum([account.getBalance() for account in self.allMyAccounts])
     
     def canIRealocate(self) -> bool:
-        return self.totalBalance > 0
+        return self.myTotalBalance() > 0
 
     # Todos os métodos que consultam as APIS para obter os dados do cliente
     def getAllAmounts(self) -> float:
@@ -218,7 +228,6 @@ class PFM:
             link = f'https://challenge.hackathonbtg.com/credit-cards-accounts/v1/accounts'
             response = requests.get(url=link, headers=headers).json()
             time.sleep(0.02)
-            print(response['data'])
             creditCardAccountId.append(response['data'][0]['creditCardAccountId'])
         return creditCardAccountId
     
@@ -238,22 +247,35 @@ class PFM:
     
     def getTotalBalance(self):
         return  sum(self.getAllAmounts()) + sum(self.getSalary()) - sum(self.getMyBill())
+        
 
 class CreditEngine:
     def __init__(self, pfm: PFM) -> None:
         self.pfm = pfm
+        self.i = 0.02
+        self.risk = 0
+        self.riskThreshold = 3
+        self.refreshRisk()
+    
+    def coefficient(self, n: int) -> float:
+        return (((1 + self.i) ** n)* self.i) / (((1 + self.i) ** n) - 1)
+    
+    def refreshRisk(self) -> None:
+        if self.pfm.getAllDebt() < 0 and self.pfm.totalBill > 0.3 * self.pfm.totalSalary:
+            self.risk += 1
+        if (self.pfm.getAllDebt() < 0 and self.pfm.totalBill >= self.pfm.totalSalary) or self.pfm.totalBill >= self.pfm.totalSalary:
+            self.risk += 3
+    
+    def isRisk(self) -> bool:
+        return self.risk >= self.riskThreshold
+    
+    def creditProposal(self, valueZero, n):
+        parcela = valueZero * self.coefficient(n)
+        return parcela
     
     # Simple Policy
     def offer(self) -> str:
-        toPay = sum(self.pfm.getMyBill()) + sum(self.pfm.getAllAmounts())
-        if toPay > 0:
-            toPay = 0
-        mySalary = sum(self.pfm.getSalary())
-
-        if toPay > 0.3 * mySalary:
-            return 'Precisamos te oferecer crédito'
-        else:
-            return 'Não precisamos te oferecer crédito'
+        pass
 
 class InitPayment:
     def __init__(self, pfm: PFM) -> None:
@@ -290,12 +312,37 @@ class InitPayment:
         
 
     # Negativado, não vai conseguir pagar as faturas, portanto, acionaremos o motor de crédito
-    def toCredit(self):
-        pass
+    def toCredit(self, creditEngine: CreditEngine, n: int) -> None:
+        if creditEngine.isRisk():
+            valueZero = abs(self.pfm.getAllDebt())
+            parcela = creditEngine.creditProposal(valueZero, n)
+            self.log += 'Negativado, não vai conseguir pagar as faturas, portanto, acionaremos o motor de crédito\n'
+            self.log += f'O motor de crédito irá fornecer uma oferta de crédito de {n} parcelas de {parcela} para pagar a dívida de {valueZero}\n'
+            # To zero all balance and all bills of all my accounts
+            myAccountsNeg = self.pfm.getMyAccountsNegative()
+            for i in range(len(myAccountsNeg)):
+                myAccountsNeg[i].balance = 0
+                myAccountsNeg[i].bill = 0
+            self.log += 'Todas as contas foram zeradas\n'
+            self.log += 'Adiciona primeira fatura do acordo\n'
+            self.pfm.allMyAccounts[0].bill = parcela
+        else:
+            self.log += 'Não foi necessário acionar o motor de crédito\n'
+        
 
     # Retira valor investido para pagar as faturas
-    def toWithdrawInvestment(self):
-        pass
+    def toWithdrawInvestmentToPayBank(self):
+        myNegativeAccounts = self.pfm.getMyAccountsNegative()
+        myNegativeBalance = sum([account.getBalance() for account in myNegativeAccounts])
+        investValue = self.pfm.investment.investmentValue
+        if len(myNegativeAccounts) > 0 and not self.pfm.canIRealocate() and investValue > abs(myNegativeBalance):
+            self.pfm.investment.toWithdrawInvestment(abs(myNegativeBalance))
+            for i in range(len(myNegativeAccounts)):
+                myNegativeAccounts[i].balance = 0
+            self.log += f'Retirada de valor investido de {abs(myNegativeBalance)} para pagar dívidas concluída\n'
+        else:
+            self.log += 'Não foi necessário retirar valor investido para pagar dívidas\n'
+        
 
     def toPayment(self, amount: float, typePayment: str = 'me2me') -> None:
         link = 'https://api-h.developer.btgpactual.com/tr/payment-initiation/payment/pix'
