@@ -1,0 +1,14 @@
+# git ignore env dir
+env/
+explore.py
+nba_api
+__pycache__
+login
+*.ipynb
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.dll
