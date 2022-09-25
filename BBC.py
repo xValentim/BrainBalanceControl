@@ -111,7 +111,7 @@ class PFM:
         self.totalBill = sum(self.myBill)
         self.totalInvestment = self.investment.getInvestmentValue()
         self.total = self.totalBalance + self.totalInvestment
-        self.allMyAccounts = [Account(account[2], -account[3], self.customerId, account[1], self.listCreditCardAccountId[index], self.myBill[index]) for index, account in enumerate(self.allAccounts)]
+        self.allMyAccounts = [Account(account[2], account[3], self.customerId, account[1], self.listCreditCardAccountId[index], self.myBill[index]) for index, account in enumerate(self.allAccounts)]
 
     def getAllDebt(self) -> list:
         valueAccount = sum([account.getBalance() for account in self.allMyAccounts])
