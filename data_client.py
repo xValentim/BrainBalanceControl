@@ -5,6 +5,13 @@ customer_data = {
     "params": ["412.289.303-97", "785.797.738-73", "331.154.515-63"]
 }
 
+other_customer_data = {
+    "customerId": "427.282.572-59",
+    "listAccountIds": ['78e99753-0b81-4b7c-9bce-9079bc941f31'],
+    "listOrgsIds": ['a81729b5-ec71-4552-b4b1-26931c130154'],
+    "params": []
+}
+
 API_KEYS = {
     'client_id': 'e686383d-d12b-4f52-a36d-0ec2f8df9afc',
     'client_secret': '05Q26PFPYT9TAJVKP4NHPCBXETYH06KTUC9T0UAPHG55RYPV',

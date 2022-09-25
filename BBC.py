@@ -89,13 +89,13 @@ class Investment:
     #     self.investmentValue += amount
 
 class PFM:
-    def __init__(self, customerId: str) -> None:
+    def __init__(self, customerId: str, customer_data: dict, initialInvestment: float=0) -> None:
         self.customerId = customerId
         self.listAccountIds = customer_data['listAccountIds']
         self.listOrgsIds = customer_data['listOrgsIds']
         self.params = [self.customerId] + customer_data['params']
         self.listCreditCardAccountId = self.getListCreditCardAccountId()
-        self.investment = Investment(0)
+        self.investment = Investment(initialInvestment)
         self.allAccounts = self.getAllAccounts()
         self.log = ''
 
@@ -218,6 +218,7 @@ class PFM:
             link = f'https://challenge.hackathonbtg.com/credit-cards-accounts/v1/accounts'
             response = requests.get(url=link, headers=headers).json()
             time.sleep(0.02)
+            print(response['data'])
             creditCardAccountId.append(response['data'][0]['creditCardAccountId'])
         return creditCardAccountId
     
