@@ -10,9 +10,9 @@ credit_engine_da_valentina = CreditEngine(pfm_da_valentina)
 Valentina:
 '''
 # # Remanejamento entre contas
-# ip_da_valentina.toRealocateAccounts()
-# print(pfm_da_valentina.showAllMySituation())
-# print(ip_da_valentina.log)
+ip_da_valentina.toRealocateAccounts()
+print(pfm_da_valentina.showAllMySituation())
+print(ip_da_valentina.log)
 
 # # Aplicar saldo positivo em investimentos de alta liquidez e baixo risco
 # ip_da_valentina.toApplication()

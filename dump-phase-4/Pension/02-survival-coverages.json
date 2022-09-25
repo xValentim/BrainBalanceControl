@@ -1,0 +1,513 @@
+[
+    {
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936"
+      },
+      "name": "Produto A",
+      "code": "0001",
+      "segment": "PREVIDENCIA",
+      "modality": "BENEFICIO_DEFINIDO",
+      "additionalInfo": "https://openinsurance.com.br/aaa",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "type": "PGBL",
+      "defferalPeriod": {
+        "interestRate": "0.251231",
+        "updateIndex": "IPCA",
+        "otherMinimumPerformanceGarantees": "SELIC",
+        "reversalFinancialResults": "0.051230",
+        "minimumPremiums": [
+          {
+            "currency": "BRL",
+            "periodicity": "MENSAL",
+            "amount": "250.00"
+          }
+        ],
+        "premiumPaymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "permissionExtraordinaryContributions": true,
+        "permissionScheduledFinancialPayments": true,
+        "gracePeriod": {
+          "redemption": 100,
+          "betweenRedemptionRequests": 30,
+          "portability": 12,
+          "betweenPortabilityRequests": 15
+        },
+        "redemptionPaymentTerm": 10,
+        "portabilityPaymentTerm": 20,
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00063281574936",
+            "name": "Instituição Financeira 01",
+            "maximumAdministrationFee": "0.201000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.201000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "grantPeriodBenefit": {
+        "incomeModalities": [
+          "PAGAMENTO_UNICO"
+        ],
+        "biometricTable": [
+          "AT_2000_MALE"
+        ],
+        "interestRate": "0.225222",
+        "updateIndex": "IPCA",
+        "reversalFinancialResults": "1.252111",
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00063281574936",
+            "name": "Instituição Financeira 01",
+            "maximumAdministrationFee": "0.201000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.201000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "costs": {
+        "loadingAntecipated": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        },
+        "loadingLate": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        }
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "participantQualified": true,
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629"
+      },
+      "name": "Produto A",
+      "code": "0004",
+      "segment": "PREVIDENCIA",
+      "modality": "BENEFICIO_DEFINIDO",
+      "additionalInfo": "https://openinsurance.com.br/aaa",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "type": "PGBL",
+      "defferalPeriod": {
+        "interestRate": "0.233231",
+        "updateIndex": "IPCA",
+        "otherMinimumPerformanceGarantees": "SELIC",
+        "reversalFinancialResults": "0.050030",
+        "minimumPremiums": [
+          {
+            "currency": "BRL",
+            "periodicity": "MENSAL",
+            "amount": "250.00"
+          }
+        ],
+        "premiumPaymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "permissionExtraordinaryContributions": true,
+        "permissionScheduledFinancialPayments": true,
+        "gracePeriod": {
+          "redemption": 100,
+          "betweenRedemptionRequests": 30,
+          "portability": 12,
+          "betweenPortabilityRequests": 15
+        },
+        "redemptionPaymentTerm": 10,
+        "portabilityPaymentTerm": 20,
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00087205950629",
+            "name": "Instituição Financeira 04",
+            "maximumAdministrationFee": "0.200000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.220000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "grantPeriodBenefit": {
+        "incomeModalities": [
+          "PAGAMENTO_UNICO"
+        ],
+        "biometricTable": [
+          "AT_2000_MALE"
+        ],
+        "interestRate": "0.235222",
+        "updateIndex": "IPCA",
+        "reversalFinancialResults": "1.322111",
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00087205950629",
+            "name": "Instituição Financeira 04",
+            "maximumAdministrationFee": "0.212000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.222000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "costs": {
+        "loadingAntecipated": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        },
+        "loadingLate": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        }
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "participantQualified": true,
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },   {
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072"
+      },
+      "name": "Produto A",
+      "code": "0005",
+      "segment": "PREVIDENCIA",
+      "modality": "BENEFICIO_DEFINIDO",
+      "additionalInfo": "https://openinsurance.com.br/aaa",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "type": "PGBL",
+      "defferalPeriod": {
+        "interestRate": "0.250231",
+        "updateIndex": "IPCA",
+        "otherMinimumPerformanceGarantees": "SELIC",
+        "reversalFinancialResults": "0.051030",
+        "minimumPremiums": [
+          {
+            "currency": "BRL",
+            "periodicity": "MENSAL",
+            "amount": "250.00"
+          }
+        ],
+        "premiumPaymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "permissionExtraordinaryContributions": true,
+        "permissionScheduledFinancialPayments": true,
+        "gracePeriod": {
+          "redemption": 100,
+          "betweenRedemptionRequests": 30,
+          "portability": 12,
+          "betweenPortabilityRequests": 15
+        },
+        "redemptionPaymentTerm": 10,
+        "portabilityPaymentTerm": 20,
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00017498770072",
+            "name": "Instituição Financeira 05",
+            "maximumAdministrationFee": "0.222000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.233000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "grantPeriodBenefit": {
+        "incomeModalities": [
+          "PAGAMENTO_UNICO"
+        ],
+        "biometricTable": [
+          "AT_2000_MALE"
+        ],
+        "interestRate": "0.230022",
+        "updateIndex": "IPCA",
+        "reversalFinancialResults": "1.300111",
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00017498770072",
+            "name": "Instituição Financeira 05",
+            "maximumAdministrationFee": "0.200000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.201000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "costs": {
+        "loadingAntecipated": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        },
+        "loadingLate": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        }
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "participantQualified": true,
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    }, {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649"
+      },
+      "name": "Produto A",
+      "code": "0003",
+      "segment": "PREVIDENCIA",
+      "modality": "BENEFICIO_DEFINIDO",
+      "additionalInfo": "https://openinsurance.com.br/aaa",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "type": "PGBL",
+      "defferalPeriod": {
+        "interestRate": "0.252231",
+        "updateIndex": "IPCA",
+        "otherMinimumPerformanceGarantees": "SELIC",
+        "reversalFinancialResults": "0.053330",
+        "minimumPremiums": [
+          {
+            "currency": "BRL",
+            "periodicity": "MENSAL",
+            "amount": "250.00"
+          }
+        ],
+        "premiumPaymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "permissionExtraordinaryContributions": true,
+        "permissionScheduledFinancialPayments": true,
+        "gracePeriod": {
+          "redemption": 100,
+          "betweenRedemptionRequests": 30,
+          "portability": 12,
+          "betweenPortabilityRequests": 15
+        },
+        "redemptionPaymentTerm": 10,
+        "portabilityPaymentTerm": 20,
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00047912790649",
+            "name": "Instituição Financeira 03",
+            "maximumAdministrationFee": "0.212000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.199000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "grantPeriodBenefit": {
+        "incomeModalities": [
+          "PAGAMENTO_UNICO"
+        ],
+        "biometricTable": [
+          "AT_2000_MALE"
+        ],
+        "interestRate": "0.225222",
+        "updateIndex": "IPCA",
+        "reversalFinancialResults": "1.252111",
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00047912790649",
+            "name": "Instituição Financeira 03",
+            "maximumAdministrationFee": "0.208000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.205000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "costs": {
+        "loadingAntecipated": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        },
+        "loadingLate": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        }
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "participantQualified": true,
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034"
+      },
+      "name": "Produto A",
+      "code": "0002",
+      "segment": "PREVIDENCIA",
+      "modality": "BENEFICIO_DEFINIDO",
+      "additionalInfo": "https://openinsurance.com.br/aaa",
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "type": "PGBL",
+      "defferalPeriod": {
+        "interestRate": "0.201231",
+        "updateIndex": "IPCA",
+        "otherMinimumPerformanceGarantees": "SELIC",
+        "reversalFinancialResults": "0.050230",
+        "minimumPremiums": [
+          {
+            "currency": "BRL",
+            "periodicity": "MENSAL",
+            "amount": "50000.00"
+          }
+        ],
+        "premiumPaymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "permissionExtraordinaryContributions": true,
+        "permissionScheduledFinancialPayments": true,
+        "gracePeriod": {
+          "redemption": 100,
+          "betweenRedemptionRequests": 30,
+          "portability": 12,
+          "betweenPortabilityRequests": 15
+        },
+        "redemptionPaymentTerm": 10,
+        "portabilityPaymentTerm": 20,
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00055102298034",
+            "name": "Instituição Financeira 02",
+            "maximumAdministrationFee": "0.251000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.20000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "2500.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "grantPeriodBenefit": {
+        "incomeModalities": [
+          "PAGAMENTO_UNICO"
+        ],
+        "biometricTable": [
+          "AT_2000_MALE"
+        ],
+        "interestRate": "0.225222",
+        "updateIndex": "IPCA",
+        "reversalFinancialResults": "1.252111",
+        "investmentFunds": [
+          {
+            "cnpjNumber": "00055102298034",
+            "name": "Instituição Financeira 02",
+            "maximumAdministrationFee": "0.200000",
+            "typePerformanceFee": "DIRETAMENTE",
+            "maximumPerformanceFee": "0.200000",
+            "eligibilityRule": true,
+            "minimumContributionAmount": "1000.00",
+            "minimumMathematicalProvisionAmount": "1000.00",
+            "currency": "BRL"
+          }
+        ]
+      },
+      "costs": {
+        "loadingAntecipated": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        },
+        "loadingLate": {
+          "minValue": "0.000000",
+          "maxValue": "0.100000"
+        }
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "participantQualified": true,
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    }
+]

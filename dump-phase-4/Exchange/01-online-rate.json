@@ -1,0 +1,384 @@
+[
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "values": [
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.4922"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.6969"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.0001"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.0002"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.2933"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "6.1900"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "4.7125"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.9155"
+            }
+        ],
+        "timestamp": "2022-09-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "values": [
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.51022"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.7800"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.3512"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.8902"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.4135"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "6.3388"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "4.8813"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.9999"
+            }
+        ],
+        "timestamp": "2022-09-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "values": [
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.5166"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.7231"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.1200"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.2000"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.3033"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "6.2263"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "4.7333"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.9266"
+            }
+        ],
+        "timestamp": "2022-09-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "values": [
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.5023"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.7045"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.0023"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.0045"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.3023"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "6.2045"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "4.7023"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.9045"
+            }
+        ],
+        "timestamp": "2022-09-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "values": [
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.50022"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.7200"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "5.1212"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "VIAGENS_INTERNACIONAIS",
+                "targetAudience": "PESSOA_NATURAL",
+                "value": "6.2002"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.3035"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "CARTAO_PRE_PAGO",
+                "transactionType": "COMPRA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "6.2288"
+            },
+            {
+                "foreignCurrency": "USD",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "4.7513"
+            },
+            {
+                "foreignCurrency": "EUR",
+                "deliveryForeignCurrency": "ESPECIE",
+                "transactionType": "VENDA",
+                "transactionCategory": "COMERCIO_EXTERIOR",
+                "targetAudience": "PESSOA_JURIDICA",
+                "value": "5.9776"
+            }
+        ],
+        "timestamp": "2022-09-21T17:32:28Z",
+        "disclaimer": "Informamos que esta taxa é estimada e exclusiva para fins de Open Finance,  não sendo válida para a contratação de operações de câmbio. Para obter a taxa para fechamento do câmbio, pedimos consultar os canais disponíveis para contratação."
+    }
+]

@@ -1,0 +1,1246 @@
+[
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.240800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.240800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.025300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.038600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.039300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.256800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.025300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.038600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.039300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.256800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.030300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.040600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.054300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.296800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.030300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.040600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.054300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.296800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.045000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.250000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.045000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.250000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.045400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.225200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.045400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.225200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.035000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.280000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.035000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.280000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.028300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.040600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.050300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.220000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.028300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.040600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.050300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.220000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.025100",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035800",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.216800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.025100",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.035800",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.216800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.027800",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.280000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.027800",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.280000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "ACOES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.022200",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.044400",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.222200",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "FUNDO_INDICES",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.032200",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.043100",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.288800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    }
+]

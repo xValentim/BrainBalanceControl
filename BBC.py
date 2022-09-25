@@ -156,7 +156,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/accounts/v1/accounts/{accountId}/balances'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             allAmounts.append(response['data']['availableAmount'])
         return allAmounts
 
@@ -170,7 +170,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/accounts/v1/accounts/{accountId}/balances'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             if response['data']['availableAmount'] < 0:
                 accountNegative.append([i, orgId, accountId])
         return accountNegative
@@ -185,7 +185,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/accounts/v1/accounts/{accountId}/balances'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             if response['data']['availableAmount'] > 0:
                 accountPositive.append([i, orgId, accountId])
         return accountPositive
@@ -200,7 +200,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/accounts/v1/accounts/{accountId}/balances'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             allAccounts.append([i, orgId, accountId, response['data']['availableAmount']])
         return allAccounts
 
@@ -215,7 +215,7 @@ class PFM:
             link = 'https://challenge.hackathonbtg.com/customers/v1/personal/qualifications'
             response = requests.get(url=link, headers=headers).json()
             salaries.append(response['data']['informedIncome']['amount'])
-            time.sleep(0.02)
+            # time.sleep(0.02)
         return salaries
 
     def getListCreditCardAccountId(self) -> list:
@@ -227,7 +227,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/credit-cards-accounts/v1/accounts'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             creditCardAccountId.append(response['data'][0]['creditCardAccountId'])
         return creditCardAccountId
     
@@ -241,7 +241,7 @@ class PFM:
             headers = {'organizationid': orgId, 'customerid': customerId}
             link = f'https://challenge.hackathonbtg.com/credit-cards-accounts/v1/accounts/{creditCardAccountId}/bills'
             response = requests.get(url=link, headers=headers).json()
-            time.sleep(0.02)
+            # time.sleep(0.02)
             mybills.append(response['data'][0]['billTotalAmount'])
         return mybills
     

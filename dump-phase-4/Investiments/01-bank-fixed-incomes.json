@@ -1,0 +1,722 @@
+[
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000500",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "CDI",
+            "indexerAdditionalInfo": "Dólar",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020300",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.030600",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.034300",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.246800",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DIARIA",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000950",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.015000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.036000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.230000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000950",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.040000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000600",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "CDI",
+            "indexerAdditionalInfo": "Dólar",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020500",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.036000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DIARIA",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000601",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.014000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.025000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.030000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000602",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.030000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.040000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.250000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000500",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "CDI",
+            "indexerAdditionalInfo": "Dólar",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020300",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.030600",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.034300",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.246800",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DIARIA",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000950",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.015000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.036000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.230000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000950",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.040000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000191",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "CDI",
+            "indexerAdditionalInfo": "Dólar",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.025000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.036000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DIARIA",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000192",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.015000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.036000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.230000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000193",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.025000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.030000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.035000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.270000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000700",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "CDI",
+            "indexerAdditionalInfo": "Dólar",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.025400",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.032000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.032000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.150000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DIARIA",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000701",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.020000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.028000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.032000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.300000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_JURIDICA"
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 04",
+            "name": "Instituição Financeira 04",
+            "cnpjNumber": "00087205950629",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "issuerInstitutionCnpjNumber": "64108803000704",
+        "issuerInstitutionName": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+        "investmentType": "CDB",
+        "index": {
+            "indexer": "Selic",
+            "indexerAdditionalInfo": "Selic",
+            "issueRemunerationRate": {
+                "prices": [
+                    {
+                        "interval": "1_FAIXA",
+                        "value": "0.015000",
+                        "customerRate": "0.500000"
+                    },
+                    {
+                        "interval": "2_FAIXA",
+                        "value": "0.025000",
+                        "customerRate": "0.100000"
+                    },
+                    {
+                        "interval": "3_FAIXA",
+                        "value": "0.040000",
+                        "customerRate": "0.300000"
+                    },
+                    {
+                        "interval": "4_FAIXA",
+                        "value": "0.250000",
+                        "customerRate": "0.100000"
+                    }
+                ],
+                "minimum": "0.010000",
+                "maximum": "0.300000"
+            }
+        },
+        "investmentConditions": {
+            "minimumAmount": "100.00",
+            "redemptionTerm": "DATA_VENCIMENTO",
+            "expirationPeriod": "1081+",
+            "gracePeriod": "1081+"
+        },
+        "targetAudience": "PESSOA_NATURAL"
+    }
+]

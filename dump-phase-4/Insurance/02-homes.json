@@ -1,0 +1,428 @@
+[
+    {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649"
+      },
+      "name": "Produto A",
+      "code": "0003",
+      "coverages": [
+        {
+          "type": "IMOVEL_BASICA",
+          "detail": "string",
+          "permissionSeparateAcquisition": true,
+          "attributes": {
+            "minLMI": {
+              "amount": "0.15",
+              "currency": "BRL"
+            },
+            "maxLMI": {
+              "amount": "10000000.01",
+              "currency": "BRL"
+            },
+            "minDeductibleAmount": {
+              "amount": "1.2000",
+              "currency": "BRL"
+            },
+            "insuredMandatoryParticipationPercentage": "0.000005"
+          }
+        }
+      ],
+      "propertyCharacteristics": [
+        {
+          "type": "CASA",
+          "buildTypes": [
+            "ALVENARIA"
+          ],
+          "usageTypes": [
+            "HABITUAL"
+          ],
+          "importanceInsureds": [
+            "PREDIO"
+          ]
+        }
+      ],
+      "propertyPostalCode": "13110000",
+      "protective": false,
+      "additionals": [
+        "SORTEIO_GRATUITO"
+      ],
+      "additionalInfo": "Detalhar os serviços, benefícios e outros",
+      "assistanceServices": [
+        {
+          "package": "ATE_10_SERVICOS",
+          "detail": "Plano 1 - Cobertura de Assistência 24h com os serviços de - reboque pane seca - reboque pane mecanica - chaveiro - remoção médica - acompanhante hospital Inclui serviços residenciais gratuitos - Serviços à Residência",
+          "chargeType": "GRATUITA"
+        }
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "terms": [
+        "ANUAL"
+      ],
+      "termsAdditionalInfo": "string",
+      "customerService": "REDE_REFERENCIADA",
+      "premiumPayment": {
+        "paymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "paymentType": "A_VISTA",
+        "paymentMethodsAdditionalInfo": "Descritivo"
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034"
+      },
+      "name": "Produto A",
+      "code": "0002",
+      "coverages": [
+        {
+          "type": "IMOVEL_BASICA",
+          "detail": "string",
+          "permissionSeparateAcquisition": true,
+          "attributes": {
+            "minLMI": {
+              "amount": "0.10",
+              "currency": "BRL"
+            },
+            "maxLMI": {
+              "amount": "10000000.01",
+              "currency": "BRL"
+            },
+            "minDeductibleAmount": {
+              "amount": "1.1500",
+              "currency": "BRL"
+            },
+            "insuredMandatoryParticipationPercentage": "0.000002"
+          }
+        }
+      ],
+      "propertyCharacteristics": [
+        {
+          "type": "CASA",
+          "buildTypes": [
+            "ALVENARIA"
+          ],
+          "usageTypes": [
+            "HABITUAL"
+          ],
+          "importanceInsureds": [
+            "PREDIO"
+          ]
+        }
+      ],
+      "propertyPostalCode": "13110000",
+      "protective": false,
+      "additionals": [
+        "SORTEIO_GRATUITO"
+      ],
+      "additionalInfo": "Detalhar os serviços, benefícios e outros",
+      "assistanceServices": [
+        {
+          "package": "ATE_10_SERVICOS",
+          "detail": "Plano 1 - Cobertura de Assistência 24h com os serviços de - reboque pane seca - reboque pane mecanica - chaveiro - remoção médica - acompanhante hospital Inclui serviços residenciais gratuitos - Serviços à Residência",
+          "chargeType": "GRATUITA"
+        }
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "terms": [
+        "ANUAL"
+      ],
+      "termsAdditionalInfo": "string",
+      "customerService": "REDE_REFERENCIADA",
+      "premiumPayment": {
+        "paymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "paymentType": "A_VISTA",
+        "paymentMethodsAdditionalInfo": "Descritivo"
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936"
+      },
+      "name": "Produto A",
+      "code": "0001",
+      "coverages": [
+        {
+          "type": "IMOVEL_BASICA",
+          "detail": "string",
+          "permissionSeparateAcquisition": true,
+          "attributes": {
+            "minLMI": {
+              "amount": "0.01",
+              "currency": "BRL"
+            },
+            "maxLMI": {
+              "amount": "1000000.01",
+              "currency": "BRL"
+            },
+            "minDeductibleAmount": {
+              "amount": "1.1000",
+              "currency": "BRL"
+            },
+            "insuredMandatoryParticipationPercentage": "0.000002"
+          }
+        }
+      ],
+      "propertyCharacteristics": [
+        {
+          "type": "CASA",
+          "buildTypes": [
+            "ALVENARIA"
+          ],
+          "usageTypes": [
+            "HABITUAL"
+          ],
+          "importanceInsureds": [
+            "PREDIO"
+          ]
+        }
+      ],
+      "propertyPostalCode": "13110000",
+      "protective": false,
+      "additionals": [
+        "SORTEIO_GRATUITO"
+      ],
+      "additionalInfo": "Detalhar os serviços, benefícios e outros",
+      "assistanceServices": [
+        {
+          "package": "ATE_10_SERVICOS",
+          "detail": "Plano 1 - Cobertura de Assistência 24h com os serviços de - reboque pane seca - reboque pane mecanica - chaveiro - remoção médica - acompanhante hospital Inclui serviços residenciais gratuitos - Serviços à Residência",
+          "chargeType": "GRATUITA"
+        }
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "terms": [
+        "ANUAL"
+      ],
+      "termsAdditionalInfo": "string",
+      "customerService": "REDE_REFERENCIADA",
+      "premiumPayment": {
+        "paymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "paymentType": "A_VISTA",
+        "paymentMethodsAdditionalInfo": "Descritivo"
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629"
+      },
+      "name": "Produto A",
+      "code": "0004",
+      "coverages": [
+        {
+          "type": "IMOVEL_BASICA",
+          "detail": "string",
+          "permissionSeparateAcquisition": true,
+          "attributes": {
+            "minLMI": {
+              "amount": "0.05",
+              "currency": "BRL"
+            },
+            "maxLMI": {
+              "amount": "10000000.01",
+              "currency": "BRL"
+            },
+            "minDeductibleAmount": {
+              "amount": "1.0500",
+              "currency": "BRL"
+            },
+            "insuredMandatoryParticipationPercentage": "0.000001"
+          }
+        }
+      ],
+      "propertyCharacteristics": [
+        {
+          "type": "CASA",
+          "buildTypes": [
+            "ALVENARIA"
+          ],
+          "usageTypes": [
+            "HABITUAL"
+          ],
+          "importanceInsureds": [
+            "PREDIO"
+          ]
+        }
+      ],
+      "propertyPostalCode": "13110000",
+      "protective": false,
+      "additionals": [
+        "SORTEIO_GRATUITO"
+      ],
+      "additionalInfo": "Detalhar os serviços, benefícios e outros",
+      "assistanceServices": [
+        {
+          "package": "ATE_10_SERVICOS",
+          "detail": "Plano 1 - Cobertura de Assistência 24h com os serviços de - reboque pane seca - reboque pane mecanica - chaveiro - remoção médica - acompanhante hospital Inclui serviços residenciais gratuitos - Serviços à Residência",
+          "chargeType": "GRATUITA"
+        }
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "terms": [
+        "ANUAL"
+      ],
+      "termsAdditionalInfo": "string",
+      "customerService": "REDE_REFERENCIADA",
+      "premiumPayment": {
+        "paymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "paymentType": "A_VISTA",
+        "paymentMethodsAdditionalInfo": "Descritivo"
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072"
+      },
+      "name": "Produto A",
+      "code": "0005",
+      "coverages": [
+        {
+          "type": "IMOVEL_BASICA",
+          "detail": "string",
+          "permissionSeparateAcquisition": true,
+          "attributes": {
+            "minLMI": {
+              "amount": "0.10",
+              "currency": "BRL"
+            },
+            "maxLMI": {
+              "amount": "10000000.01",
+              "currency": "BRL"
+            },
+            "minDeductibleAmount": {
+              "amount": "1.1000",
+              "currency": "BRL"
+            },
+            "insuredMandatoryParticipationPercentage": "0.000005"
+          }
+        }
+      ],
+      "propertyCharacteristics": [
+        {
+          "type": "CASA",
+          "buildTypes": [
+            "ALVENARIA"
+          ],
+          "usageTypes": [
+            "HABITUAL"
+          ],
+          "importanceInsureds": [
+            "PREDIO"
+          ]
+        }
+      ],
+      "propertyPostalCode": "13110000",
+      "protective": false,
+      "additionals": [
+        "SORTEIO_GRATUITO"
+      ],
+      "additionalInfo": "Detalhar os serviços, benefícios e outros",
+      "assistanceServices": [
+        {
+          "package": "ATE_10_SERVICOS",
+          "detail": "Plano 1 - Cobertura de Assistência 24h com os serviços de - reboque pane seca - reboque pane mecanica - chaveiro - remoção médica - acompanhante hospital Inclui serviços residenciais gratuitos - Serviços à Residência",
+          "chargeType": "GRATUITA"
+        }
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "terms": [
+        "ANUAL"
+      ],
+      "termsAdditionalInfo": "string",
+      "customerService": "REDE_REFERENCIADA",
+      "premiumPayment": {
+        "paymentMethods": [
+          "CARTAO_CREDITO"
+        ],
+        "paymentType": "A_VISTA",
+        "paymentMethodsAdditionalInfo": "Descritivo"
+      },
+      "minimumRequirement": {
+        "contractType": "COLETIVO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL_JURIDICA"
+    }
+  ]

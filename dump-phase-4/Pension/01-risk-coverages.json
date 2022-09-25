@@ -1,0 +1,983 @@
+[
+    {
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072"
+      },
+      "name": "Seguro de vida",
+      "code": "0009",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "30000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "550000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "PET",
+        "FUNERAL","MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "12.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.5100"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072"
+      },
+      "name": "Seguro de Doencas Graves Terminal",
+      "code": "0010",
+      "modality": "DOENCAS_GRAVES_DOENCA_TERMINAL",
+      "coverages": [
+        {
+          "type": "INVALIDEZ",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "50000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "530000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+		"MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "11.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.4900"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    }, {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649"
+      },
+      "name": "Seguro de vida",
+      "code": "0005",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "35000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "600000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "PET",
+        "FUNERAL","MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "12.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.5000"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649"
+      },
+      "name": "Seguro de Doencas Graves Terminal",
+      "code": "0006",
+      "modality": "DOENCAS_GRAVES_DOENCA_TERMINAL",
+      "coverages": [
+        {
+          "type": "INVALIDEZ",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "60000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "350000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+		"MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "16.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.4900"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034"
+      },
+      "name": "Seguro de vida",
+      "code": "0003",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "50000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "430000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "PET",
+        "FUNERAL","MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "14.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.5000"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034"
+      },
+      "name": "Seguro de Doencas Graves Terminal",
+      "code": "0004",
+      "modality": "DOENCAS_GRAVES_DOENCA_TERMINAL",
+      "coverages": [
+        {
+          "type": "INVALIDEZ",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "25000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "550000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+		"MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "15.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.4900"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936"
+      },
+      "name": "Seguro de vida",
+      "code": "0001",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "30000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "500000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "PET",
+        "FUNERAL","MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "14.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.5000"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936"
+      },
+      "name": "Seguro de Doencas Graves Terminal",
+      "code": "0002",
+      "modality": "DOENCAS_GRAVES_DOENCA_TERMINAL",
+      "coverages": [
+        {
+          "type": "INVALIDEZ",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "25000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "550000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+		"MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "15.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.4900"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },{
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629"
+      },
+      "name": "Seguro de vida",
+      "code": "0007",
+      "modality": "VIDA",
+      "coverages": [
+        {
+          "type": "MORTE",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "45000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "450000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+        "PET",
+        "FUNERAL","MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "16.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.5100"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "society": {
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629"
+      },
+      "name": "Seguro de Doencas Graves Terminal",
+      "code": "0008",
+      "modality": "DOENCAS_GRAVES_DOENCA_TERMINAL",
+      "coverages": [
+        {
+          "type": "INVALIDEZ",
+          "typeAdditionalInfos": [
+            "Detalhar os serviços",
+            "benefícios",
+            "outros"
+          ],
+          "attributes": {
+            "minValue": {
+              "amount": "30000",
+              "currency": "BRL"
+            },
+            "maxValue": {
+              "amount": "600000",
+              "currency": "BRL"
+            },
+            "indemnifiablePeriods": [
+              "QUANTIDADE_DETERMINADA_PARCELAS"
+            ],
+            "excludedRisks": [
+              "ATO_RECONHECIMENTO_PERIGOSO","ATO_ILICITO_DOLOSO_PRATICADO_SEGURADO"
+            ],
+            "excludedRisksURL": "https://openinsurance.com.br/aaa"
+          }
+        }
+      ],
+      "assistanceTypes": [
+		"MEDICA_ACIDENTE_DOENCA"
+      ],
+      "assistanceTypesAdditionalInfos": [
+        "Assistance additional info."
+      ],
+      "additionals": [
+        "SORTEIO",
+        "OUTROS"
+      ],
+      "termsAndConditions": [
+        {
+          "susepProcessNumber": "15414.622222/2222-22",
+          "detail": "https://openinsurance.com.br/aaa"
+        }
+      ],
+      "pmbacRemuneration": {
+        "interestRate": "17.2521",
+        "updateIndexes": [
+          "IPCA"
+        ]
+      },
+      "ageAdjustment": {
+        "criterias": [
+          "APOS_PERIODO_ANOS"
+        ],
+        "frequency": 10
+      },
+      "financialRegimeContractTypes": [
+        "REPARTICAO_SIMPLES"
+      ],
+      "reclaim": {
+        "table": [
+          {
+            "initialMonthRange": 1,
+            "finalMonthRange": 12,
+            "percentage": "0.4900"
+          }
+        ],
+        "gracePeriod": {
+          "amount": 90,
+          "unit": "MESES"
+        },
+        "differenciatedPercentage": "https://openinsurance.com.br/aaa\nObs.: Exceção de cobertura ou critério definido acima será descrito aqui na URL\nExemplo: Cobertura X: a partir de 25 meses = 100%\n"
+      },
+      "otherGuaranteedValues": [
+        "SALDAMENTO"
+      ],
+      "indemnityPaymentMethods": [
+        "UNICO"
+      ],
+      "minimumRequirement": {
+        "contractType": "COLETIVO_AVERBADO",
+        "contractingMinRequirement": "https://openinsurance.com.br/aaa"
+      },
+      "targetAudience": "PESSOA_NATURAL"
+    }  
+  ]

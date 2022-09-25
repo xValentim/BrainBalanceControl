@@ -1,0 +1,248 @@
+[
+    {
+        "participant": {
+            "brand": "Instituição Financeira 05",
+            "name": "Instituição Financeira 05",
+            "cnpjNumber": "00017498770072",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "TESOURO_DIRETO",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.029000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.039000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.250000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.029000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.039000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.040000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.250000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        }
+    },
+    {
+        "participant": {
+            "brand": "Instituição Financeira 03",
+            "name": "Instituição Financeira 03",
+            "cnpjNumber": "00047912790649",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "TESOURO_DIRETO",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.024000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.244000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.024000",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034000",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.244000",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        }
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 02",
+            "name": "Instituição Financeira 02",
+            "cnpjNumber": "00055102298034",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "TESOURO_DIRETO",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.243800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.023300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.033600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.033300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.243800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        }
+    },
+
+    {
+        "participant": {
+            "brand": "Instituição Financeira 01",
+            "name": "Instituição Financeira 01",
+            "cnpjNumber": "00063281574936",
+            "urlComplementaryList": "https://empresaa1.com/companies"
+        },
+        "investmentType": "TESOURO_DIRETO",
+        "custodyFee": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        },
+        "loadingRate": {
+            "prices": [
+                {
+                    "interval": "1_FAIXA",
+                    "value": "0.020300",
+                    "customerRate": "0.500000"
+                },
+                {
+                    "interval": "2_FAIXA",
+                    "value": "0.030600",
+                    "customerRate": "0.100000"
+                },
+                {
+                    "interval": "3_FAIXA",
+                    "value": "0.034300",
+                    "customerRate": "0.300000"
+                },
+                {
+                    "interval": "4_FAIXA",
+                    "value": "0.246800",
+                    "customerRate": "0.100000"
+                }
+            ],
+            "minimum": "0.010000",
+            "maximum": "0.300000"
+        }
+    }
+]

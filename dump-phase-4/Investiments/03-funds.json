@@ -1,0 +1,802 @@
+[
+    {
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000500",
+      "isinCode": "BRAAAAAAA100",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000151"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000105"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "CDI",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "20000.12",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+	{
+      "participant": {
+        "brand": "Instituição Financeira 05",
+        "name": "Instituição Financeira 05",
+        "cnpjNumber": "00017498770072",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000950",
+      "isinCode": "BRAAAAAAA600",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000950"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000950"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.045000",
+        "entryFee": "0.000000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.045000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "20000.12",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000600",
+      "isinCode": "BRAAAAAAA200",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000700"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000800"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.050000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "CDI",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.050000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000601",
+      "isinCode": "BRAAAAAAA201",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000701"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000801"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.015000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "CURTO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 03",
+        "name": "Instituição Financeira 03",
+        "cnpjNumber": "00047912790649",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000602",
+      "isinCode": "BRAAAAAAA202",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000702"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000802"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.025000",
+        "entryFee": "0.010000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.025000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000500",
+      "isinCode": "BRAAAAAAA100",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000151"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000105"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "CDI",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "20000.12",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {      
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS IMOBILIARIOS",
+      "cnpjNumber": "64108803000192",
+      "isinCode": "BRAAAAAAA101",
+      "admin": {
+        "name": "ADM OPEN BANKING CTVM S.A.",
+        "cnpjNumber": "14511732000152"
+      },
+      "fundManager": {
+        "name": "IMOBILIARIO OPEN BANKING DMVM S.A.",
+        "cnpjNumber": "16332711000106"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.025000",
+        "entryFee": "0.010000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "IGP_M",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.030000"
+        },
+        "exitFee": "0.025000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "25000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 5,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 20,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS DE DOLAR",
+      "cnpjNumber": "64108803000193",
+      "isinCode": "BRAAAAAAA003",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "DOLAR OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000103"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.020000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.025000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "10000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 10,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 10,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 02",
+        "name": "Instituição Financeira 02",
+        "cnpjNumber": "00055102298034",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS DE AÇÕES",
+      "cnpjNumber": "64108803000194",
+      "isinCode": "BRAAAAAAA004",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "INVEST OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000104"
+      },
+      "anbimaCategory": "ACOES",
+      "fees": {
+        "maxAdminFee": "0.020000",
+        "entryFee": "0.010000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.020000"
+        },
+        "exitFee": "0.020000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 20,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 20,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE INVESTIMENTO",
+      "cnpjNumber": "64108803000191",
+      "isinCode": "BRAAAAAAA000",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "GESTOR OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000101"
+      },
+      "anbimaCategory": "MULTIMERCADO",
+      "fees": {
+        "maxAdminFee": "0.020000",
+        "entryFee": "0.010000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "CDI",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.050000"
+        },
+        "exitFee": "0.030000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100000.12",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "CURTO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS IMOBILIARIOS",
+      "cnpjNumber": "64108803000192",
+      "isinCode": "BRAAAAAAA001",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "IMOBILIARIO OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000102"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.030000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.025000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 2,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 5,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 547
+        },
+        "application": {
+          "quotationDays": 120,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "CURTO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS DE DOLAR",
+      "cnpjNumber": "64108803000193",
+      "isinCode": "BRAAAAAAA003",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "DOLAR OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000103"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.020000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.025000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "10000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 10,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 10,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "LONGO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 01",
+        "name": "Instituição Financeira 01",
+        "cnpjNumber": "00063281574936",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS EM FUNDOS DE AÇÕES",
+      "cnpjNumber": "64108803000194",
+      "isinCode": "BRAAAAAAA004",
+      "admin": {
+        "name": "ADM OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "14511732000150"
+      },
+      "fundManager": {
+        "name": "INVEST OPEN BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000104"
+      },
+      "anbimaCategory": "ACOES",
+      "fees": {
+        "maxAdminFee": "0.020000",
+        "entryFee": "0.010000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.020000"
+        },
+        "exitFee": "0.020000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "100000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 20,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 20,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000700",
+      "isinCode": "BRAAAAAAA300",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000800"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000900"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.050000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "ATIVO",
+          "benchmark": "CDI",
+          "benchmarkAdditionalInfo": "string",
+          "amount": "0.015000"
+        },
+        "exitFee": "0.050000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 3,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 3,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 60,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "VARIAVEL"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000701",
+      "isinCode": "BRAAAAAAA300",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000802"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000903"
+      },
+      "anbimaCategory": "RENDA_FIXA",
+      "fees": {
+        "maxAdminFee": "0.030000",
+        "entryFee": "0.005000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.025000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "50000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 2,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 5,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 547
+        },
+        "application": {
+          "quotationDays": 120,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "CURTO_PRAZO"
+    },
+    {
+      "participant": {
+        "brand": "Instituição Financeira 04",
+        "name": "Instituição Financeira 04",
+        "cnpjNumber": "00087205950629",
+        "urlComplementaryList": "https://empresaa1.com/companies"
+      },
+      "name": "FUNDO DE INVESTIMENTO EM COTAS DE FUNDOS DE COTAS",
+      "cnpjNumber": "64108803000704",
+      "isinCode": "BRAAAAAAA300",
+      "admin": {
+        "name": "ADM OPEN BANKING BTVM S.A.",
+        "cnpjNumber": "14511732000805"
+      },
+      "fundManager": {
+        "name": "GESTOR CLOSE BANKING DTVM S.A.",
+        "cnpjNumber": "16332711000906"
+      },
+      "anbimaCategory": "CAMBIAL",
+      "fees": {
+        "maxAdminFee": "0.035000",
+        "entryFee": "0.020000",
+        "performanceFee": {
+          "method": "PASSIVO",
+          "benchmark": "IBOVESPA",
+          "benchmarkAdditionalInfo": "",
+          "amount": "0.025000"
+        },
+        "exitFee": "0.035000"
+      },
+      "generalConditions": {
+        "minimumAmount": {
+          "value": "10000.00",
+          "currency": "BRL"
+        },
+        "redemption": {
+          "quotationDays": 10,
+          "quotationTerm": "DIAS_CORRIDOS",
+          "paymentDays": 10,
+          "paymentTerm": "DIAS_CORRIDOS",
+          "graceDays": 365
+        },
+        "application": {
+          "quotationDays": 30,
+          "quotationTerm": "DIAS_CORRIDOS"
+        },
+        "fundQuotaType": "COTA_ABERTURA"
+      },
+      "taxation": "LONGO_PRAZO"
+    }
+]
